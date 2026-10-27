@@ -1,0 +1,10 @@
+{"timestamp":"2026-03-02T09:15:00Z","level":"INFO","message":"worker started"}
+{"timestamp":"2026-03-02T09:15:02Z","level":"INFO","message":"configuration loaded"}
+{"timestamp":"2026-03-02T09:15:08Z","level":"WARN","message":"retrying request"}
+{"timestamp":"2026-03-02T09:15:11Z","level":"ERROR","message":"upstream returned 503"}
+{"timestamp":"2026-03-02T09:15:18Z","level":"INFO","message":"request accepted"}
+{"timestamp":"2026-03-02T09:15:21Z","level":"ERROR","message":"upstream returned 503"}
+{"timestamp":"2026-03-02T09:15:29Z","level":"DEBUG","message":"retry delay: 200ms"}
+{"timestamp":"2026-03-02T09:15:36Z","level":"INFO","message":"request completed"}
+this line is intentionally invalid JSON
+{"time":"2026-03-02T09:15:45Z","severity":"WARNING","msg":"high memory usage"}
